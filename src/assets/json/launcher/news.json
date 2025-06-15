@@ -3,8 +3,8 @@
     "id": 1,
     "yoast_head_json": {
       "title": "Mein erster News-Eintrag",
-      "og_image": [{ "url": "https://blublauncher.grueneeule.de/assets/png/launcher/news/Blub-Launcher.png" }],
-      "og_url": "https://beispiel.de/news1"
+      "og_image": [{ "url": "https://blublauncher.grueneeule.de/assets/png/launcher/news/blub-launcher.png" }],
+      "og_url": "https://blublauncher.grueneeule.de/assets/png/launcher/news/blub-launcher.png"
     }
   }
 ]
