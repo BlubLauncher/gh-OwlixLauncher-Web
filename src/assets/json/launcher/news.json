@@ -2,8 +2,8 @@
   {
     "id": 1,
     "yoast_head_json": {
-      "title": "Mein erster News-Eintrag",
-      "og_image": [{ "url": "https://blublauncher.grueneeule.de/assets/png/launcher/news/blub-launcher.png" }],
+      "title": "BlubLauncher First Entry",
+      "og_image": [{ "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Luwische_Inschrift.jpg/250px-Luwische_Inschrift.jpg" }],
       "og_url": "https://blublauncher.grueneeule.de/assets/png/launcher/news/blub-launcher.png"
     }
   }
